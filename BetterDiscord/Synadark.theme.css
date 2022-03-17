@@ -7,3 +7,81 @@
     * @source https://github.com/Synaelle/Synadark
     * @website http://synaelle.erethia.me
 **/
+
+/**
+    * @name Synadark
+    * @version 0.1
+    * @description A random dark theme to my tastes
+    * @author Synaelle#0001
+    * @authorId 143397715944931328
+    * @source https://github.com/Synaelle/Synadark
+    * @website http://synaelle.erethia.me
+**/
+
+:root {
+    --bg-primary: #101114;
+    --bg-secondary: #15181c;
+    --text-area: #0c0d0f;
+}
+
+.scrollerInner-2PPAp2 {
+    background-color: var(--bg-primary);
+}
+
+.scroller-kQBbkU {
+    background-color: var(--bg-primary);
+}
+
+.container-1NXEtd {
+    background-color: var(--bg-secondary);
+}
+
+.container-6sXIoE {
+    background-color: var(--bg-secondary);
+}
+
+.container-YkUktl {
+    background-color: var(--bg-secondary);
+}
+
+.form-3gdLxP::before {
+    visibility: hidden;
+}
+
+.form-3gdLxP {
+    background-color: var(--bg-primary);
+}
+
+.scrollableContainer-15eg7h {
+    background-color: var(--text-area);
+}
+
+.scroller-3X7KbA {
+    background-color: var(--bg-primary);
+}
+
+.content-2a4AW9 {
+    background-color: var(--bg-secondary) !important;
+}
+
+.typeWindows-2-g3UY {
+    background-color: var(--bg-primary);
+}
+
+.title-31SJ6t {
+    background-color: var(--bg-primary) !important;
+}
+
+.searchBar-3TnChZ {
+    background-color: var(--bg-secondary);
+}
+
+/* Settings */
+
+.sidebarRegionScroller-FXiQOh {
+    background-color: var(--bg-secondary);
+}
+
+.contentRegionScroller-2_GT_N {
+    background-color: var(--bg-primary);
+}
